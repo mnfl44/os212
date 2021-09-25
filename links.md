@@ -12,3 +12,6 @@ Helpful links for the Operating System class!
 |4|02|The Art of Code - Dylan Beattie | https://www.youtube.com/watch?v=6avJHaC3C2U | Fun conference that discusses an entertaining look at the art of code! |
 |5|02|Regex Cheat Sheet | https://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf | Regex cheat sheet to refresh your knowledge! |
 |6|02|Regex101 | https://regex101.com/ | Test and confirm your regex works on this handy little website! |
+|7|03|Learning Sed is Beneficial For Linux Users | https://www.youtube.com/watch?v=EACe7aiGczw | Tutorial for the sed command! |
+|8|03|The Vim Tutorial - Part One - Basic Commands | https://www.youtube.com/watch?v=ER5JYFKkYDg | Simple to understand Vim tutorial, starting with your basic commands. |
+|9|03|The Beginner's Guide to SSH | https://www.youtube.com/watch?v=2QXkrLVsRmk | Simple to understand video guide for SSH! |

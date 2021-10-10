@@ -47,3 +47,8 @@ Understanding the pointer concept in C.
 ### 11. [Understanding Shared Libraries in Linux](https://www.tecmint.com/understanding-shared-libraries-in-linux/)
 
 The basics of Linux libraries - mainly managing and locating said libraries.
+
+### 12. [Paging Presentation](http://lass.cs.umass.edu/~shenoy/courses/fall14/lectures/Lec15.pdf)
+
+PDF from the Paging lecture at the University of Massachussetts. Video lecture version also [here](https://www.youtube.com/watch?v=4KFZMaCenX4)
+

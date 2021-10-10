@@ -23,3 +23,8 @@ ZCZC W03  20 L03 Maintained TXT
 ZCZC W04  30 L05 Quiz Week 4
 ZCZC W04 120 L14 Assignment #05
 ZCZC W04 150 L06 Read class material
+ZCZC W05 120 L14 Assignment #04
+ZCZC W05  10 L15 Assignment #05
+ZCZC W05  10 L17 Assignment #7 
+ZCZC W05  10 L18 Assigment #8
+ZCZC W05 200 L04 Read class material

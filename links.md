@@ -52,3 +52,6 @@ The basics of Linux libraries - mainly managing and locating said libraries.
 
 PDF from the Paging lecture at the University of Massachussetts. Video lecture version also [here](https://www.youtube.com/watch?v=4KFZMaCenX4)
 
+### 13. [Your First C Program Using Fork System Call](https://linuxhint.com/c_fork_system_call/)
+
+Article explaining fork() in C and how you would utilize that in a program.

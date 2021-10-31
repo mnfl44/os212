@@ -28,3 +28,8 @@ ZCZC W05  10 L15 Assignment #05
 ZCZC W05  10 L17 Assignment #7 
 ZCZC W05  10 L18 Assigment #8
 ZCZC W05 200 L04 Read class material
+ZCZC W06 120 L11 Assignment #01
+ZCZC W06 120 L14 Assignment #04
+ZCZC W06  20 L15 Assignment #05
+ZCZC W06   5 L16 Assignment #06 
+ZCZC W06 180 L06 Read class material

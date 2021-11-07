@@ -55,3 +55,11 @@ PDF from the Paging lecture at the University of Massachussetts. Video lecture v
 ### 13. [Your First C Program Using Fork System Call](https://linuxhint.com/c_fork_system_call/)
 
 Article explaining fork() in C and how you would utilize that in a program.
+
+### 14. [MIT OpenCourseWare Video Course: Semaphore](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/c19/c19s2/c19s2v2/)
+
+Video course from MIT about semaphores.
+
+### 15. [MIT OpenCourseWare Video Course: Semaphore Implementation](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/c19/c19s2/c19s2v4/)
+
+Video course from MIT on how to implement semaphores.

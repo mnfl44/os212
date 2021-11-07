@@ -33,3 +33,9 @@ ZCZC W06 120 L14 Assignment #04
 ZCZC W06  20 L15 Assignment #05
 ZCZC W06   5 L16 Assignment #06 
 ZCZC W06 180 L06 Read class material
+ZCZC W07 150 L11 Assignment #01: Reading OSC10 chapter 6, 7, 8
+ZCZC W07  60 L14 Assignment #04: Work on RESULT/W07
+ZCZC W07  30 L15 Assignment #05: Add links
+ZCZC W07  10 L17 Assignment #07: Review peer links
+ZCZC W07  10 L18 Assignment #08: Update log
+ZCZC W07 140 L06 Read class material

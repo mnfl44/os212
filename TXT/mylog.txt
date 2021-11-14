@@ -39,3 +39,10 @@ ZCZC W07  30 L15 Assignment #05: Add links
 ZCZC W07  10 L17 Assignment #07: Review peer links
 ZCZC W07  10 L18 Assignment #08: Update log
 ZCZC W07 140 L06 Read class material
+ZCZC W08  60 L11 Assignment #01: Reading OSC10 chapter 5
+ZCZC W08 200 L14 Assignment #04: Follow LFS Chapter 01-04
+ZCZC W08 300 L15 Assignment #05: Follow LFS Chapter 5
+ZCZC W08  20 L16 Assignment #06: Add links
+ZCZC W08  10 L18 Assignment #08: Review peer links
+ZCZC W08  10 L19 Assignment #09: Update log
+ZCZC W08 160 L06 Reade class material

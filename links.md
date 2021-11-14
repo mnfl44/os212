@@ -63,3 +63,9 @@ Video course from MIT about semaphores.
 ### 15. [MIT OpenCourseWare Video Course: Semaphore Implementation](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/c19/c19s2/c19s2v4/)
 
 Video course from MIT on how to implement semaphores.
+
+### 14. [LFS Book](https://www.linuxfromscratch.org/lfs/view/stable/)
+
+IMO the original Linux for Scratch Book is the best documentation about LFS, so even though you might've already skimmed through this for your assignment you might still want to reread it again!
+
+

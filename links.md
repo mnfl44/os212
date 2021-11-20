@@ -68,4 +68,11 @@ Video course from MIT on how to implement semaphores.
 
 IMO the original Linux for Scratch Book is the best documentation about LFS, so even though you might've already skimmed through this for your assignment you might still want to reread it again!
 
+### 15. [Linux Boot Process Part 1: systemd, sysVinit](https://tekneed.com/linux-boot-process-part-1-systemd-sysvinit-system/)
+
+Short guide detailing the first part of the Linux boot process; the BIOS, systemd and sysVinit.
+
+### 16. [Linux Boot Process Part 2: Bootloader](https://tekneed.com/linux-boot-process-part-2-the-linux-boot-loader/)
+
+Continuation of the previous link; short guide detailing the second part of the Linux boot process, the boot loader.
 
